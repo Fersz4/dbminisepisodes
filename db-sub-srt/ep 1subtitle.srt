@@ -1,0 +1,228 @@
+1
+00:00:10,490 --> 00:00:13,910
+<i>¡Vamos a buscar las esferas del dragón!</i>
+
+2
+00:00:13,990 --> 00:00:17,530
+<i>Es el secreto más estremecedor.</i>
+
+3
+00:00:17,620 --> 00:00:21,000
+<i>¡Vamos a atrapar las esferas del dragón!</i>
+
+4
+00:00:21,080 --> 00:00:24,170
+<i>Un milagro increíble se esconde ahí.</i>
+
+5
+00:00:24,250 --> 00:00:27,250
+<i>La fantástica aventura va a empezar.</i>
+
+6
+00:00:27,750 --> 00:00:33,510
+<i>Este mundo es una gran isla del tesoro.</i>
+
+7
+00:00:35,260 --> 00:00:38,850
+<i>Un amor late ardiente en mi pecho hoy.</i>
+
+8
+00:00:38,930 --> 00:00:42,350
+<i>Son tan diversos los sueños de cada quien.</i>
+
+9
+00:00:42,430 --> 00:00:48,610
+<i>En algún lugar de la tierra brillan para mí.</i>
+
+10
+00:00:49,020 --> 00:00:52,360
+<i>Vamos muchachos, vamos a luchar.</i>
+
+11
+00:00:52,780 --> 00:00:56,160
+<i>Contra los temibles monstruos a pelear.</i>
+
+12
+00:00:56,240 --> 00:01:02,750
+<i>En la nube voladora vamos hoy a viajar.</i>
+
+13
+00:01:02,830 --> 00:01:07,130
+<i>A intentar la gloria alcanzar.</i>
+
+14
+00:01:07,210 --> 00:01:10,000
+<i>A intentar el cielo conquistar.</i>
+
+15
+00:01:10,090 --> 00:01:13,260
+<i>Un grandioso viaje empezará.</i>
+
+16
+00:01:14,090 --> 00:01:21,260
+<i>Hoy es la oportunidad. Lucha hasta el final. </i>
+
+17
+00:01:21,350 --> 00:01:24,810
+<i>¡Vamos a buscar las esferas del dragón!</i>
+
+18
+00:01:24,890 --> 00:01:28,440
+<i>El desafío más grande que enfrentarás.</i>
+
+19
+00:01:28,520 --> 00:01:31,230
+<i>¡Vamos a atrapar las esferas del dragón!</i>
+
+20
+00:01:32,110 --> 00:01:35,110
+<i>El más grande tesoro se esconde ahí.</i>
+
+21
+00:01:35,190 --> 00:01:38,610
+<i>La fantástica aventura va a empezar.</i>
+
+22
+00:01:38,700 --> 00:01:48,580
+<i>Mágica y sin igual. Oportunidad.</i>
+
+23
+00:06:35,240 --> 00:06:37,790
+¡Claro! ¡Puedo comer pescado!
+
+24
+00:06:51,220 --> 00:06:53,930
+¡Es un mono! ¡Buen provecho!
+
+25
+00:07:04,940 --> 00:07:06,190
+¡Ya te tengo!
+
+26
+00:07:57,740 --> 00:08:00,830
+¿Cómo te atreves? ¡Eres un monstruo!
+
+27
+00:08:01,250 --> 00:08:04,830
+¿Eh? Salió un demonio del interior de la bestia.
+
+28
+00:08:05,630 --> 00:08:06,750
+¡Desgraciado!
+
+29
+00:08:15,590 --> 00:08:17,810
+¡¿Qué fue eso?! ¡¿Magia negra?!
+
+30
+00:08:18,260 --> 00:08:21,560
+¿Eh, qué? ¡¿Cómo es que no moriste?!
+
+31
+00:08:21,640 --> 00:08:24,400
+¡No seas estúpida! ¡No puedo morir tan fácilmente!
+
+32
+00:08:24,600 --> 00:08:27,270
+¡Mi cuerpo es duro como el acero!
+
+33
+00:08:27,770 --> 00:08:30,360
+¡Prepárate, demonio malvado!
+
+34
+00:08:30,990 --> 00:08:32,400
+¡¿Demonio?!
+
+35
+00:09:35,300 --> 00:09:37,130
+Se murió hace tiempo.
+
+36
+00:09:40,260 --> 00:09:42,680
+¡¿Se puede saber qué haces, pervertido?!
+
+37
+00:16:01,140 --> 00:16:04,310
+¿Qué te parece? Puedes tocar un poco si quieres.
+
+38
+00:16:04,730 --> 00:16:07,230
+No quiero tocarte el trasero, seguro que lo tienes sucio.
+
+39
+00:16:07,360 --> 00:16:10,190
+¡No está sucio! ¡Eres un grosero!
+
+40
+00:16:11,070 --> 00:16:13,200
+Claro.
+
+41
+00:22:44,750 --> 00:22:47,380
+<i>Fantasía, ven a mi.</i>
+
+42
+00:22:47,800 --> 00:22:50,300
+<i>Conquistarte quiero yo.</i>
+
+43
+00:22:50,340 --> 00:22:55,640
+<i>Juventud, un misterio vas a descubrir.</i>
+
+44
+00:22:57,140 --> 00:23:00,330
+<i>Todos quieren pronto vivir.</i>
+
+45
+00:23:00,330 --> 00:23:02,860
+<i>Aventuras mil y algo más.</i>
+
+46
+00:23:02,860 --> 00:23:08,700
+<i>Juventud, conserva la inocencia que hay en ti.</i>
+
+47
+00:23:08,990 --> 00:23:11,660
+<i>Si tratas de aparentar.</i>
+
+48
+00:23:11,660 --> 00:23:14,530
+<i>Algo que no eres.</i>
+
+49
+00:23:15,290 --> 00:23:20,710
+<i>Se esfumará la magia igual que emana ilusión.</i>
+
+50
+00:23:21,830 --> 00:23:25,130
+<i>Atrévete a enfrentar.</i>
+
+51
+00:23:25,130 --> 00:23:28,050
+Salvaje y plenamente.
+
+52
+00:23:28,840 --> 00:23:33,010
+El milagro de vivir.
+
+53
+00:23:33,300 --> 00:23:39,270
+Romance te puedo dar. Romance te puedo dar.
+
+54
+00:23:41,140 --> 00:23:45,770
+Si me enseñas con valor la verdad que hay en ti.
+
+55
+00:23:45,770 --> 00:23:52,530
+Romance te puedo dar. Romance te puedo dar.
+
+56
+00:23:53,570 --> 00:23:55,580
+Brillando en mi pecho está...
+
+57
+00:23:56,660 --> 00:24:01,660
+Vigorosamente, el amor que hay en mi para ti.
+
